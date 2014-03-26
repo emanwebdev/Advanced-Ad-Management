@@ -1,6 +1,15 @@
 Extension "Faire Revivre une Annonce en 1 Clic"
 ----------------------------------------------
 
+Plugin Name: Faire Revivre une Annonce en 1 Clic (originellement 'Advanced Ad Management') avec modèles d'emails traduits en français
+Plugin URI: http://forums.osclass.org/development/repost-an-expired-ad/
+Description: Options de gestion des annonces pour la republication facile des annonces, envois automatiques d'avis d'expiration, et suppression automatique des annonces non renouvelées
+Version: 1.1
+Author: Jesse & JChapman
+Translator: Emmanuel  http://forums.osclass.org/profile/?area=forumprofile;u=8769
+
+
+
 Cette Extension/plugin/module permet d'envoyer automatiquement des emails de notification et de rappel aux annonceurs quelques jours avant que leurs annonces arrivent à expiration. L'e-mail contient un lien qui permet à l'annoncer de republier son annonce en 1 clic. 
 
 De plus, un autre e-mail est envoyé si l'annonceur n'a pas donné suite au 1er e-mail, et que son annonce est donc arrivée à échéance. Ce 2ème et dernier e-mail de rappel contient aussi un lien qui permet de republier en dernière chance l'annonce en 1 clic. 
