@@ -1,5 +1,5 @@
-Extension "Gestion Avancée des Annonces"
-----------------------------------------
+Extension "Faire Revivre une Annonce en 1 Clic"
+----------------------------------------------
 
 Cette Extension/plugin/module permet d'envoyer automatiquement des emails de notification et de rappel aux annonceurs quelques jours avant que leurs annonces arrivent à expiration. L'e-mail contient un lien qui permet à l'annoncer de republier son annonce en 1 clic. 
 
@@ -23,7 +23,7 @@ INSTRUCTIONS pour l'INSTALLATION
 
 + Rendez-vous dans le Tableau de Bord de votre installation Osclass, dans le menu Gérer les extensions
 
-+ Le module/plugin Gestion Avancée des annonces est prêt à être installé et à commencer à faire son travail 
++ Le module/plugin Faire Revivre une Annonce en 1 Clic est prêt à être installé et à commencer à faire son travail 
 automatiquement en arrière-plan ([cron Osclass](http://doc.osclass.org/Cron), chaque jour)
 
 + Les différentes options et paramètres sont explicites
