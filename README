@@ -1,3 +1,16 @@
 Ad management options for ad republishing, expiration notices, automatic ad deletion and more!
 
 @emanwebdev Added index_FRench.php with Emails Templates translated in french.
+
+Ajouté le fichier index_FRench.php avec les modèles d'emails traduits en français.
+
+RENOMMER CE FICHIER en index.php (en écrasant celui en anglais) 
+
+**AVANT** d'installer ce module/plugin
+
+Copiez ensuite tout dans /oc-content/plugin/ et rendez-vous dans le Tableau de Bord de votre installation Osclass
+
+Le module/plugin Gestion Avancée des annonces est prêt à être installé et commencer à faire son travail 
+automatiquement en arrière-plan ([cron Osclass](http://doc.osclass.org/Cron), chaque jour)
+
+
