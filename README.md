@@ -33,6 +33,8 @@ automatiquement en arrière-plan ([cron Osclass](http://doc.osclass.org/Cron), c
 + Voilà, ça tourne
 
 
+et un Grand Merci! à [JCcoder aka trains58554 pour son travail](https://github.com/emanwebdev/Advanced-Ad-Management/commits/fr_FR) !
+
 
 Bien à vous
 
