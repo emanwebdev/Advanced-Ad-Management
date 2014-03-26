@@ -35,6 +35,7 @@ automatiquement en arrière-plan ([cron Osclass](http://doc.osclass.org/Cron), c
 
 
 Bien à vous
+
 Emmanuel
 
 
@@ -61,3 +62,4 @@ Changelog
 @emanwebdev 2014-03-26: Added index_FRench.php with Emails Templates translated in french.
 @emanwebdev 2014-03-26: Ajouté le fichier index_FRench.php avec les modèles d'emails traduits en français.
 @emanwebdev 2014-03-26: Renamed index_FRench.php to index.php to target the french community and ease the setup.
+
