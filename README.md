@@ -1,7 +1,7 @@
-Extension "Faire Revivre une Annonce en 1 Clic"
-----------------------------------------------
+Extension "Republier une Annonce en 1 Clic"
+-------------------------------------------
 
-Nom: Faire Revivre une Annonce en 1 Clic (originellement 'Advanced Ad Management') avec modèles d'emails traduits en français
+Nom: Republier une Annonce en 1 Clic (originellement 'Advanced Ad Management') avec modèles d'emails traduits en français
 
 URI: http://forums.osclass.org/development/repost-an-expired-ad/
 
@@ -37,12 +37,12 @@ INSTRUCTIONS pour l'INSTALLATION
 
 + Rendez-vous dans le Tableau de Bord de votre installation Osclass, dans le menu Gérer les extensions
 
-+ Le module/plugin Faire Revivre une Annonce en 1 Clic est prêt à être installé et à commencer à faire son travail 
++ L'extension/plugin Republier une Annonce en 1 Clic est prête à être installée et à commencer à faire son travail 
 automatiquement en arrière-plan ([cron Osclass](http://doc.osclass.org/Cron), chaque jour)
 
-+ Les différentes options et paramètres sont explicites
++ Les différentes options sont explicites. Il y a un menu FAQ / Aide.
 
-+ Si vous voulez modifier le texte des emails envoyés, rendez-vous dans Paramètres => Modèles d'emails, les 2 nouveaux modèles associés à cette extenson sont à la fin de la liste et se nomment email_ad_expire et email_ad_expired
++ Si vous voulez modifier le texte des emails envoyés, rendez-vous dans Paramètres => Modèles d'emails, les 2 nouveaux modèles associés à cette extenson sont à la fin de la liste et se nomment `email_ad_expire` et `email_ad_expired`
 
 + Voilà, ça tourne
 
@@ -76,6 +76,10 @@ Emmanuel
 Changelog
 
 @emanwebdev 2014-03-26: Added index_FRench.php with Emails Templates translated in french.
+
 @emanwebdev 2014-03-26: Ajouté le fichier index_FRench.php avec les modèles d'emails traduits en français.
+
 @emanwebdev 2014-03-26: Renamed index_FRench.php to index.php to target the french community and ease the setup.
+
+@emanwebdev 2014-03-26: Renommée en Republier une Annonce en 1 Clic au lieu de Faire Revivre une Annonce en 1 Clic
 
