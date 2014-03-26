@@ -9,9 +9,9 @@ Description: Options de gestion des annonces pour la republication facile des an
 
 Version: 1.1
 
-Auteurs: Jesse & JChapman
+Auteurs: [Jesse](http://forums.osclass.org/profile/?u=7185 "Profil sur forums.osclass.org") & [JChapman](http://forums.osclass.org/profile/?u=1728 "Profil sur forums.osclass.org")
 
-Traducteur: Emmanuel  http://forums.osclass.org/profile/?area=forumprofile;u=8769
+Traducteur: [Emmanuel](http://forums.osclass.org/profile/?u=8769 "Profil sur forums.osclass.org")
 
 
 
