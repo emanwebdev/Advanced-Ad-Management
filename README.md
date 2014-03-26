@@ -29,7 +29,7 @@ avec ce nombre de jours **`n`** à choix dans les réglages de l'extension.
 INSTRUCTIONS pour l'INSTALLATION
 ================================
 
-+ Téléchargez cette extension ici en cliquant à droite sur le bouton **Download ZIP**
++ [Téléchargez cette extension](https://github.com/emanwebdev/Advanced-Ad-Management/archive/fr_FR.zip) en cliquant à droite sur [le bouton **Download ZIP**](https://github.com/emanwebdev/Advanced-Ad-Management/archive/fr_FR.zip)
 
 + Unzip'it. Vous obtenez un dossier/répertoire nommé `advanced_ad_management`
 
@@ -47,7 +47,7 @@ automatiquement en arrière-plan ([cron Osclass](http://doc.osclass.org/Cron), c
 + Voilà, ça tourne
 
 
-et un Grand Merci! à [JCcoder aka trains58554 pour son travail](https://github.com/emanwebdev/Advanced-Ad-Management/commits/fr_FR) !
+et un Grand Merci! à [JCcoder aka trains58554 pour son travail](https://github.com/trains58554/Advanced-Ad-Management/commits/master) !
 
 
 Bien à vous
