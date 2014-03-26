@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Advanced Ad Management. Emails Templates tranlated in french.
+Plugin Name: Advanced Ad Management. Emails Templates translated in french.
 Plugin URI: http://forums.osclass.org/development/repost-an-expired-ad/
 Description: Ad management options for ad republishing, expiration notices, automatic ad deletion and more!
 Version: 1.1
