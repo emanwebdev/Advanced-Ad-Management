@@ -1,15 +1,25 @@
 <?php
 /*
-Plugin Name: Advanced Ad Management. Emails Templates translated in french.
+Plugin Name: Gestion Avancée des annonces (Advanced Ad Management) avec modèles d'emails traduits en français
 Plugin URI: http://forums.osclass.org/development/repost-an-expired-ad/
 Description: Ad management options for ad republishing, expiration notices, automatic ad deletion and more!
 Version: 1.1
 Author: Jesse & JChapman
+Translator: Emmanuel  http://forums.osclass.org/profile/?area=forumprofile;u=8769
 Author URI: http://www.osclass.org/
 Short Name: adManage
 
 The plans of the diligent lead to profit as 
 surely as haste leads to poverty. Proverbs 21:5
+
+
+Les projets de l'homme diligent ne mènent qu'à l'abondance, 
+Mais celui qui agit avec précipitation n'arrive qu'à la disette.
+			Proverbes 21:5
+			
+Les projets de celui qui est diligent, produisent l'abondance; 
+mais tout homme étourdi tombe dans la pauvreté.
+			Proverbes 21:5
 */
 
 
